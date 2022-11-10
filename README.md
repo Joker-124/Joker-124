@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joker-124
 - 👀 I’m interested in Football and other sports
-- 🌱 I’m currently learning Java and Javascript
+- 🌱 I’m currently learning Java and python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 Discord ~ Grim_Killer#1858
 
